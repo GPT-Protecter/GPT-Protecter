@@ -13,7 +13,7 @@ This project aims to provide a solution for quantitatively estimating the damage
   
 ## Quick Start  
   
-Please follow the instructions [here]([https://example.com/installation](https://apifox.com/apidoc/shared-70320c4e-516d-4e36-9e72-a9f0d0b1cbd3)) to use it.  
+Please follow the instructions [here]([https://example.com/installation](https://apifox.com/apidoc/shared-70320c4e-516d-4e36-9e72-a9f0d0b1cbd3) ) to use it.  
   
 ## License  
   
